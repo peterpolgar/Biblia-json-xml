@@ -1,0 +1,4 @@
+lang=hun
+short.title=01 H Káldi
+description=Hungarian Káldi Neovulgata Bible
+about=Hungarian Káldi Neovulgata Bible

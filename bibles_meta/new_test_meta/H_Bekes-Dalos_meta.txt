@@ -1,0 +1,4 @@
+lang=hun
+short.title=11 H Békés Dalos
+description=Békés-Dalos
+about=Hungarian Bekes - Dalos NT 1951

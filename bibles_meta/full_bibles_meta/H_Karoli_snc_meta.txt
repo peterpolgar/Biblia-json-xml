@@ -1,0 +1,12 @@
+lang=hun
+short.title=16 H Karoli Snc
+description=Karoli Biblia 1590 - (Angol Sync)
+charset=238
+version.major=1
+version.minor=0
+version.date=2011-03-25
+author=Károli Gáspár
+publish.date=1590
+creator=baranyilaszlo(baranyilaszlozsolt@gmail.com)
+source=The Word Project 
+about=Szent Biblia Károli Gáspár fordítása 1590 Vizsoly<br><br>Szinkronizálva az angol versszámozáshoz <br><br>A modult Baranyi László készítette 2011. <br><br> http://baranyilaszlozsolt.blogspot.com

@@ -1,0 +1,4 @@
+lang=hun
+short.title=21 H Kar HG
+description=Hungarian Károli Bible
+about=Magyar K\u225?roli Biblia \par A modullal utolj\u225?ra Harmai G\u225?bor dolgozott.

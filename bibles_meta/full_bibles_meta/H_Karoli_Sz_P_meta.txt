@@ -1,0 +1,4 @@
+lang=hun
+short.title=02 H Karoli SZ P
+description=Hungarian Károli Bible
+about=Hungarian K\u225?roli Bible \par L\u233?lek - Szellem \par Az \u218?r szavai {\cf6 v\u246?r\u246?ssel} jel\u337?lve\par A modult Csol\u225?k B\u233?la k\u233?sz\u237?tette. \par Tov\u225?bbi modulok\u233?rt l\u225?togass el a \par www.ktgymiskolc.hu/esword.php oldalra.
