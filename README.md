@@ -29,7 +29,7 @@ Mindegyik formátum UTF-8 kódolású.
 
 Az egyes fordításokhoz tartozó információk megtalálhatók a bibles_meta nevű mappában.
 
-A formátum fájlokban a könyvek nevei angolul vannak. Az angol könyvnevek és azok magyar megfelelői megtalálhatók a magyar_angol_konyvek_roviditesei.txt-ben.
+A formátum fájlokban a könyvek nevei angolul vannak. Az angol könyvnevek és azok magyar megfelelői megtalálhatók a magyar_angol_konyvek_roviditesei.json-ben.
 
 ## JSON array formátum
 ```javascript
